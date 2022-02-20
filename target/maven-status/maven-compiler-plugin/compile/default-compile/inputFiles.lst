@@ -1,0 +1,9 @@
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/controller/CapacitacionController.java
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/model/entity/Capacitacion.java
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/model/repository/ICapacitacionRepository.java
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/model/service/CapacitacionService.java
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/model/entity/Contacto.java
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/controller/CrearContactoController.java
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/model/repository/IContactoRepository.java
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/controller/LoginController.java
+/Users/valeria/IdeaProjects/SpringReskilling/src/main/java/cl/awakelab/controller/InicioController.java

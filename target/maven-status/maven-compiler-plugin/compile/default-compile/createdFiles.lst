@@ -1,0 +1,9 @@
+cl/awakelab/controller/CapacitacionController.class
+cl/awakelab/controller/LoginController.class
+cl/awakelab/controller/CrearContactoController.class
+cl/awakelab/controller/InicioController.class
+cl/awakelab/model/repository/ICapacitacionRepository.class
+cl/awakelab/model/entity/Contacto.class
+cl/awakelab/model/entity/Capacitacion.class
+cl/awakelab/model/service/CapacitacionService.class
+cl/awakelab/model/repository/IContactoRepository.class
